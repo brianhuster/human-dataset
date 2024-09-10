@@ -2,7 +2,7 @@
 Human Dataset v2 - v6 Experiment Subject 4
 ==============================
 
-This dataset was exported via roboflow.com on March 7, 2024 at 4:24 PM GMT
+This dataset was exported via roboflow.com on January 24, 2023 at 10:09 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 13660 images.
-People-pedestrian are annotated in YOLOv9 format.
+People-pedestrian are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)

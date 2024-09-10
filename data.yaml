@@ -3,4 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['Human']
+names: ['person']
+
+roboflow:
+  workspace: human-v2
+  project: human-dataset-v2
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/human-v2/human-dataset-v2/dataset/6
